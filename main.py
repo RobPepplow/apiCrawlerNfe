@@ -107,4 +107,4 @@ def Destinadas():
         return 'Não Foi Possivel Agendar Destinadas.'
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=true)
